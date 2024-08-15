@@ -693,8 +693,8 @@
               "parameters": [
                 {
                   "vckit": {
-                    "vckitAPIUrl": "http://localhost:3332/v1",
-                    "issuer": "did:web:0e37-27-32-93-137.ngrok-free.app"
+                    "vckitAPIUrl": "http://cherries-api.datatrust.link:3332/v1",
+                    "issuer": "did:web:cherries-api.datatrust.link"
                   },
                   "dpp": {
                     "context": ["https://dpp-json-ld.s3.ap-southeast-2.amazonaws.com/dppld.json"],
@@ -707,14 +707,14 @@
                     "type": ["VerifiableCredential", "DigitalProductPassport"],
                     "dlrLinkTitle": "Orchard Product Passport",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "http://localhost:3001/verify"
+                    "dlrVerificationPage": "http://cherries-api.datatrust.link:3001/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "http://localhost:8080",
+                    "dlrAPIUrl": "http://cherries-api.datatrust.link:8080",
                     "dlrAPIKey": "5555555555555"
                   },
                   "storage": {
-                    "url": "http://localhost:3334/v1/documents",
+                    "url": "http://cherries-api.datatrust.link:3334/v1/documents",
                     "params": {
                       "resultPath": "/uri",
                       "bucket": "verifiable-credentials"
@@ -1110,7 +1110,7 @@
                         {
                           "path": "/sourceParty",
                           "data": {
-                            "id": "did:web:0e37-27-32-93-137.ngrok-free.app",
+                            "id": "did:web:cherries-api.datatrust.link",
                             "name": "Orchard Facility",
                             "identifiers": [
                               {
@@ -1128,7 +1128,7 @@
                         {
                           "path": "/destinationParty",
                           "data": {
-                            "id": "did:web:0e37-27-32-93-137.ngrok-free.app",
+                            "id": "did:web:cherries-api.datatrust.link",
                             "name": "Orchard Processor",
                             "identifiers": [
                               {
@@ -1174,8 +1174,8 @@
               "parameters": [
                 {
                   "vckit": {
-                    "vckitAPIUrl": "http://localhost:3332/v1",
-                    "issuer": "did:web:0e37-27-32-93-137.ngrok-free.app"
+                    "vckitAPIUrl": "http://cherries-api.datatrust.link:3332/v1",
+                    "issuer": "did:web:cherries-api.datatrust.link"
                   },
                   "epcisTransactionEvent": {
                     "context": ["https://dpp-json-ld.s3.ap-southeast-2.amazonaws.com/transaction-event-ld.json"],
@@ -1188,14 +1188,14 @@
                     "type": ["TransactionEventCredential"],
                     "dlrLinkTitle": "Transaction Event",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "http://localhost:3001/verify"
+                    "dlrVerificationPage": "http://cherries-api.datatrust.link:3001/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "http://localhost:8080",
+                    "dlrAPIUrl": "http://cherries-api.datatrust.link:8080",
                     "dlrAPIKey": "5555555555555"
                   },
                   "storage": {
-                    "url": "http://localhost:3334/v1/documents",
+                    "url": "http://cherries-api.datatrust.link:3334/v1/documents",
                     "params": {
                       "resultPath": "/uri",
                       "bucket": "verifiable-credentials"
@@ -1891,8 +1891,8 @@
               "parameters": [
                 {
                   "vckit": {
-                    "vckitAPIUrl": "http://localhost:3332/v1",
-                    "issuer": "did:web:0e37-27-32-93-137.ngrok-free.app"
+                    "vckitAPIUrl": "http://cherries-api.datatrust.link:3332/v1",
+                    "issuer": "did:web:cherries-api.datatrust.link"
                   },
                   "dpp": {
                     "context": ["https://dpp-json-ld.s3.ap-southeast-2.amazonaws.com/dppld.json"],
@@ -1905,14 +1905,14 @@
                     "type": ["VerifiableCredential", "DigitalProductPassport"],
                     "dlrLinkTitle": "Packhouse Product Passport",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "http://localhost:3001/verify"
+                    "dlrVerificationPage": "http://cherries-api.datatrust.link:3001/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "http://localhost:8080",
+                    "dlrAPIUrl": "http://cherries-api.datatrust.link:8080",
                     "dlrAPIKey": "5555555555555"
                   },
                   "storage": {
-                    "url": "http://localhost:3334/v1/documents",
+                    "url": "http://cherries-api.datatrust.link:3334/v1/documents",
                     "params": {
                       "resultPath": "/uri",
                       "bucket": "verifiable-credentials"
@@ -2308,7 +2308,7 @@
                         {
                           "path": "/sourceParty",
                           "data": {
-                            "id": "did:web:0e37-27-32-93-137.ngrok-free.app",
+                            "id": "did:web:cherries-api.datatrust.link",
                             "name": "Packhouse Facility",
                             "identifiers": [
                               {
@@ -2326,7 +2326,7 @@
                         {
                           "path": "/destinationParty",
                           "data": {
-                            "id": "did:web:0e37-27-32-93-137.ngrok-free.app",
+                            "id": "did:web:cherries-api.datatrust.link",
                             "name": "Packhouse Processor",
                             "identifiers": [
                               {
@@ -2372,8 +2372,8 @@
               "parameters": [
                 {
                   "vckit": {
-                    "vckitAPIUrl": "http://localhost:3332/v1",
-                    "issuer": "did:web:0e37-27-32-93-137.ngrok-free.app"
+                    "vckitAPIUrl": "http://cherries-api.datatrust.link:3332/v1",
+                    "issuer": "did:web:cherries-api.datatrust.link"
                   },
                   "epcisTransactionEvent": {
                     "context": ["https://dpp-json-ld.s3.ap-southeast-2.amazonaws.com/transaction-event-ld.json"],
@@ -2386,14 +2386,14 @@
                     "type": ["TransactionEventCredential"],
                     "dlrLinkTitle": "Transaction Event",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "http://localhost:3001/verify"
+                    "dlrVerificationPage": "http://cherries-api.datatrust.link:3001/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "http://localhost:8080",
+                    "dlrAPIUrl": "http://cherries-api.datatrust.link:8080",
                     "dlrAPIKey": "5555555555555"
                   },
                   "storage": {
-                    "url": "http://localhost:3334/v1/documents",
+                    "url": "http://cherries-api.datatrust.link:3334/v1/documents",
                     "params": {
                       "resultPath": "/uri",
                       "bucket": "verifiable-credentials"
@@ -3089,8 +3089,8 @@
               "parameters": [
                 {
                   "vckit": {
-                    "vckitAPIUrl": "http://localhost:3332/v1",
-                    "issuer": "did:web:0e37-27-32-93-137.ngrok-free.app"
+                    "vckitAPIUrl": "http://cherries-api.datatrust.link:3332/v1",
+                    "issuer": "did:web:cherries-api.datatrust.link"
                   },
                   "dpp": {
                     "context": ["https://dpp-json-ld.s3.ap-southeast-2.amazonaws.com/dppld.json"],
@@ -3103,14 +3103,14 @@
                     "type": ["VerifiableCredential", "DigitalProductPassport"],
                     "dlrLinkTitle": "Fumigation and Freight Forwarding Product Passport",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "http://localhost:3001/verify"
+                    "dlrVerificationPage": "http://cherries-api.datatrust.link:3001/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "http://localhost:8080",
+                    "dlrAPIUrl": "http://cherries-api.datatrust.link:8080",
                     "dlrAPIKey": "5555555555555"
                   },
                   "storage": {
-                    "url": "http://localhost:3334/v1/documents",
+                    "url": "http://cherries-api.datatrust.link:3334/v1/documents",
                     "params": {
                       "resultPath": "/uri",
                       "bucket": "verifiable-credentials"
@@ -3506,7 +3506,7 @@
                         {
                           "path": "/sourceParty",
                           "data": {
-                            "id": "did:web:0e37-27-32-93-137.ngrok-free.app",
+                            "id": "did:web:cherries-api.datatrust.link",
                             "name": "Fumigation and Freight Forwarding Facility",
                             "identifiers": [
                               {
@@ -3524,7 +3524,7 @@
                         {
                           "path": "/destinationParty",
                           "data": {
-                            "id": "did:web:0e37-27-32-93-137.ngrok-free.app",
+                            "id": "did:web:cherries-api.datatrust.link",
                             "name": "Fumigation and Freight Forwarding Processor",
                             "identifiers": [
                               {
@@ -3570,8 +3570,8 @@
               "parameters": [
                 {
                   "vckit": {
-                    "vckitAPIUrl": "http://localhost:3332/v1",
-                    "issuer": "did:web:0e37-27-32-93-137.ngrok-free.app"
+                    "vckitAPIUrl": "http://cherries-api.datatrust.link:3332/v1",
+                    "issuer": "did:web:cherries-api.datatrust.link"
                   },
                   "epcisTransactionEvent": {
                     "context": ["https://dpp-json-ld.s3.ap-southeast-2.amazonaws.com/transaction-event-ld.json"],
@@ -3584,14 +3584,14 @@
                     "type": ["TransactionEventCredential"],
                     "dlrLinkTitle": "Transaction Event",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "http://localhost:3001/verify"
+                    "dlrVerificationPage": "http://cherries-api.datatrust.link:3001/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "http://localhost:8080",
+                    "dlrAPIUrl": "http://cherries-api.datatrust.link:8080",
                     "dlrAPIKey": "5555555555555"
                   },
                   "storage": {
-                    "url": "http://localhost:3334/v1/documents",
+                    "url": "http://cherries-api.datatrust.link:3334/v1/documents",
                     "params": {
                       "resultPath": "/uri",
                       "bucket": "verifiable-credentials"
@@ -4287,8 +4287,8 @@
               "parameters": [
                 {
                   "vckit": {
-                    "vckitAPIUrl": "http://localhost:3332/v1",
-                    "issuer": "did:web:0e37-27-32-93-137.ngrok-free.app"
+                    "vckitAPIUrl": "http://cherries-api.datatrust.link:3332/v1",
+                    "issuer": "did:web:cherries-api.datatrust.link"
                   },
                   "dpp": {
                     "context": ["https://dpp-json-ld.s3.ap-southeast-2.amazonaws.com/dppld.json"],
@@ -4301,14 +4301,14 @@
                     "type": ["VerifiableCredential", "DigitalProductPassport"],
                     "dlrLinkTitle": "Airport Terminal Product Passport",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "http://localhost:3001/verify"
+                    "dlrVerificationPage": "http://cherries-api.datatrust.link:3001/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "http://localhost:8080",
+                    "dlrAPIUrl": "http://cherries-api.datatrust.link:8080",
                     "dlrAPIKey": "5555555555555"
                   },
                   "storage": {
-                    "url": "http://localhost:3334/v1/documents",
+                    "url": "http://cherries-api.datatrust.link:3334/v1/documents",
                     "params": {
                       "resultPath": "/uri",
                       "bucket": "verifiable-credentials"
@@ -4704,7 +4704,7 @@
                         {
                           "path": "/sourceParty",
                           "data": {
-                            "id": "did:web:0e37-27-32-93-137.ngrok-free.app",
+                            "id": "did:web:cherries-api.datatrust.link",
                             "name": "Airport Terminal Facility",
                             "identifiers": [
                               {
@@ -4722,7 +4722,7 @@
                         {
                           "path": "/destinationParty",
                           "data": {
-                            "id": "did:web:0e37-27-32-93-137.ngrok-free.app",
+                            "id": "did:web:cherries-api.datatrust.link",
                             "name": "Airport Terminal Processor",
                             "identifiers": [
                               {
@@ -4768,8 +4768,8 @@
               "parameters": [
                 {
                   "vckit": {
-                    "vckitAPIUrl": "http://localhost:3332/v1",
-                    "issuer": "did:web:0e37-27-32-93-137.ngrok-free.app"
+                    "vckitAPIUrl": "http://cherries-api.datatrust.link:3332/v1",
+                    "issuer": "did:web:cherries-api.datatrust.link"
                   },
                   "epcisTransactionEvent": {
                     "context": ["https://dpp-json-ld.s3.ap-southeast-2.amazonaws.com/transaction-event-ld.json"],
@@ -4782,14 +4782,14 @@
                     "type": ["TransactionEventCredential"],
                     "dlrLinkTitle": "Transaction Event",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "http://localhost:3001/verify"
+                    "dlrVerificationPage": "http://cherries-api.datatrust.link:3001/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "http://localhost:8080",
+                    "dlrAPIUrl": "http://cherries-api.datatrust.link:8080",
                     "dlrAPIKey": "5555555555555"
                   },
                   "storage": {
-                    "url": "http://localhost:3334/v1/documents",
+                    "url": "http://cherries-api.datatrust.link:3334/v1/documents",
                     "params": {
                       "resultPath": "/uri",
                       "bucket": "verifiable-credentials"
@@ -4813,13 +4813,13 @@
   ],
   "identifyProvider": {
     "type": "gs1",
-    "url": "http://localhost:3333/products"
+    "url": "http://cherries-api.datatrust.link:3333/products"
   },
   "defaultVerificationServiceLink": {
     "title": "Default Verification Service",
     "context": "Default Verification Service",
     "type": "application/json",
-    "href": "http://localhost:3332/agent/routeVerificationCredential",
+    "href": "http://cherries-api.datatrust.link:3332/agent/routeVerificationCredential",
     "hreflang": ["en"],
     "apiKey": "test123"
   }
