@@ -19,7 +19,7 @@ services:
       context: .
       dockerfile: Dockerfile
       args:
-        - CONFIG_FILE=./app-config.json
+        - CONFIG_FILE=./app-config.cherries.json
     ports:
       - 3001:80
 
