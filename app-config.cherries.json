@@ -693,7 +693,7 @@
               "parameters": [
                 {
                   "vckit": {
-                    "vckitAPIUrl": "http://cherries-api.datatrust.link:3332/v1",
+                    "vckitAPIUrl": "https://cherries-api.datatrust.link:3332/v1",
                     "issuer": "did:web:cherries-api.datatrust.link"
                   },
                   "dpp": {
@@ -707,14 +707,14 @@
                     "type": ["VerifiableCredential", "DigitalProductPassport"],
                     "dlrLinkTitle": "Orchard Product Passport",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "http://cherries-api.datatrust.link:3001/verify"
+                    "dlrVerificationPage": "https://cherries-api.datatrust.link:3001/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "http://cherries-api.datatrust.link:8080",
+                    "dlrAPIUrl": "https://cherries-api.datatrust.link:8080",
                     "dlrAPIKey": "5555555555555"
                   },
                   "storage": {
-                    "url": "http://cherries-api.datatrust.link:3334/v1/documents",
+                    "url": "https://cherries-api.datatrust.link:3334/v1/documents",
                     "params": {
                       "resultPath": "/uri",
                       "bucket": "verifiable-credentials"
@@ -1174,7 +1174,7 @@
               "parameters": [
                 {
                   "vckit": {
-                    "vckitAPIUrl": "http://cherries-api.datatrust.link:3332/v1",
+                    "vckitAPIUrl": "https://cherries-api.datatrust.link:3332/v1",
                     "issuer": "did:web:cherries-api.datatrust.link"
                   },
                   "epcisTransactionEvent": {
@@ -1188,14 +1188,14 @@
                     "type": ["TransactionEventCredential"],
                     "dlrLinkTitle": "Transaction Event",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "http://cherries-api.datatrust.link:3001/verify"
+                    "dlrVerificationPage": "https://cherries-api.datatrust.link:3001/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "http://cherries-api.datatrust.link:8080",
+                    "dlrAPIUrl": "https://cherries-api.datatrust.link:8080",
                     "dlrAPIKey": "5555555555555"
                   },
                   "storage": {
-                    "url": "http://cherries-api.datatrust.link:3334/v1/documents",
+                    "url": "https://cherries-api.datatrust.link:3334/v1/documents",
                     "params": {
                       "resultPath": "/uri",
                       "bucket": "verifiable-credentials"
@@ -1891,7 +1891,7 @@
               "parameters": [
                 {
                   "vckit": {
-                    "vckitAPIUrl": "http://cherries-api.datatrust.link:3332/v1",
+                    "vckitAPIUrl": "https://cherries-api.datatrust.link:3332/v1",
                     "issuer": "did:web:cherries-api.datatrust.link"
                   },
                   "dpp": {
@@ -1905,14 +1905,14 @@
                     "type": ["VerifiableCredential", "DigitalProductPassport"],
                     "dlrLinkTitle": "Packhouse Product Passport",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "http://cherries-api.datatrust.link:3001/verify"
+                    "dlrVerificationPage": "https://cherries-api.datatrust.link:3001/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "http://cherries-api.datatrust.link:8080",
+                    "dlrAPIUrl": "https://cherries-api.datatrust.link:8080",
                     "dlrAPIKey": "5555555555555"
                   },
                   "storage": {
-                    "url": "http://cherries-api.datatrust.link:3334/v1/documents",
+                    "url": "https://cherries-api.datatrust.link:3334/v1/documents",
                     "params": {
                       "resultPath": "/uri",
                       "bucket": "verifiable-credentials"
@@ -2372,7 +2372,7 @@
               "parameters": [
                 {
                   "vckit": {
-                    "vckitAPIUrl": "http://cherries-api.datatrust.link:3332/v1",
+                    "vckitAPIUrl": "https://cherries-api.datatrust.link:3332/v1",
                     "issuer": "did:web:cherries-api.datatrust.link"
                   },
                   "epcisTransactionEvent": {
@@ -2386,14 +2386,14 @@
                     "type": ["TransactionEventCredential"],
                     "dlrLinkTitle": "Transaction Event",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "http://cherries-api.datatrust.link:3001/verify"
+                    "dlrVerificationPage": "https://cherries-api.datatrust.link:3001/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "http://cherries-api.datatrust.link:8080",
+                    "dlrAPIUrl": "https://cherries-api.datatrust.link:8080",
                     "dlrAPIKey": "5555555555555"
                   },
                   "storage": {
-                    "url": "http://cherries-api.datatrust.link:3334/v1/documents",
+                    "url": "https://cherries-api.datatrust.link:3334/v1/documents",
                     "params": {
                       "resultPath": "/uri",
                       "bucket": "verifiable-credentials"
@@ -3089,7 +3089,7 @@
               "parameters": [
                 {
                   "vckit": {
-                    "vckitAPIUrl": "http://cherries-api.datatrust.link:3332/v1",
+                    "vckitAPIUrl": "https://cherries-api.datatrust.link:3332/v1",
                     "issuer": "did:web:cherries-api.datatrust.link"
                   },
                   "dpp": {
@@ -3103,14 +3103,14 @@
                     "type": ["VerifiableCredential", "DigitalProductPassport"],
                     "dlrLinkTitle": "Fumigation and Freight Forwarding Product Passport",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "http://cherries-api.datatrust.link:3001/verify"
+                    "dlrVerificationPage": "https://cherries-api.datatrust.link:3001/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "http://cherries-api.datatrust.link:8080",
+                    "dlrAPIUrl": "https://cherries-api.datatrust.link:8080",
                     "dlrAPIKey": "5555555555555"
                   },
                   "storage": {
-                    "url": "http://cherries-api.datatrust.link:3334/v1/documents",
+                    "url": "https://cherries-api.datatrust.link:3334/v1/documents",
                     "params": {
                       "resultPath": "/uri",
                       "bucket": "verifiable-credentials"
@@ -3570,7 +3570,7 @@
               "parameters": [
                 {
                   "vckit": {
-                    "vckitAPIUrl": "http://cherries-api.datatrust.link:3332/v1",
+                    "vckitAPIUrl": "https://cherries-api.datatrust.link:3332/v1",
                     "issuer": "did:web:cherries-api.datatrust.link"
                   },
                   "epcisTransactionEvent": {
@@ -3584,14 +3584,14 @@
                     "type": ["TransactionEventCredential"],
                     "dlrLinkTitle": "Transaction Event",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "http://cherries-api.datatrust.link:3001/verify"
+                    "dlrVerificationPage": "https://cherries-api.datatrust.link:3001/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "http://cherries-api.datatrust.link:8080",
+                    "dlrAPIUrl": "https://cherries-api.datatrust.link:8080",
                     "dlrAPIKey": "5555555555555"
                   },
                   "storage": {
-                    "url": "http://cherries-api.datatrust.link:3334/v1/documents",
+                    "url": "https://cherries-api.datatrust.link:3334/v1/documents",
                     "params": {
                       "resultPath": "/uri",
                       "bucket": "verifiable-credentials"
@@ -4287,7 +4287,7 @@
               "parameters": [
                 {
                   "vckit": {
-                    "vckitAPIUrl": "http://cherries-api.datatrust.link:3332/v1",
+                    "vckitAPIUrl": "https://cherries-api.datatrust.link:3332/v1",
                     "issuer": "did:web:cherries-api.datatrust.link"
                   },
                   "dpp": {
@@ -4301,14 +4301,14 @@
                     "type": ["VerifiableCredential", "DigitalProductPassport"],
                     "dlrLinkTitle": "Airport Terminal Product Passport",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "http://cherries-api.datatrust.link:3001/verify"
+                    "dlrVerificationPage": "https://cherries-api.datatrust.link:3001/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "http://cherries-api.datatrust.link:8080",
+                    "dlrAPIUrl": "https://cherries-api.datatrust.link:8080",
                     "dlrAPIKey": "5555555555555"
                   },
                   "storage": {
-                    "url": "http://cherries-api.datatrust.link:3334/v1/documents",
+                    "url": "https://cherries-api.datatrust.link:3334/v1/documents",
                     "params": {
                       "resultPath": "/uri",
                       "bucket": "verifiable-credentials"
@@ -4768,7 +4768,7 @@
               "parameters": [
                 {
                   "vckit": {
-                    "vckitAPIUrl": "http://cherries-api.datatrust.link:3332/v1",
+                    "vckitAPIUrl": "https://cherries-api.datatrust.link:3332/v1",
                     "issuer": "did:web:cherries-api.datatrust.link"
                   },
                   "epcisTransactionEvent": {
@@ -4782,14 +4782,14 @@
                     "type": ["TransactionEventCredential"],
                     "dlrLinkTitle": "Transaction Event",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "http://cherries-api.datatrust.link:3001/verify"
+                    "dlrVerificationPage": "https://cherries-api.datatrust.link:3001/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "http://cherries-api.datatrust.link:8080",
+                    "dlrAPIUrl": "https://cherries-api.datatrust.link:8080",
                     "dlrAPIKey": "5555555555555"
                   },
                   "storage": {
-                    "url": "http://cherries-api.datatrust.link:3334/v1/documents",
+                    "url": "https://cherries-api.datatrust.link:3334/v1/documents",
                     "params": {
                       "resultPath": "/uri",
                       "bucket": "verifiable-credentials"
@@ -4813,13 +4813,13 @@
   ],
   "identifyProvider": {
     "type": "gs1",
-    "url": "http://cherries-api.datatrust.link:3333/products"
+    "url": "https://cherries-api.datatrust.link:3333/products"
   },
   "defaultVerificationServiceLink": {
     "title": "Default Verification Service",
     "context": "Default Verification Service",
     "type": "application/json",
-    "href": "http://cherries-api.datatrust.link:3332/agent/routeVerificationCredential",
+    "href": "https://cherries-api.datatrust.link:3332/agent/routeVerificationCredential",
     "hreflang": ["en"],
     "apiKey": "test123"
   }
