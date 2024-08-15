@@ -694,7 +694,7 @@
                 {
                   "vckit": {
                     "vckitAPIUrl": "http://localhost:3332/v1",
-                    "issuer": "did:web:0e37-27-32-93-137.ngrok-free.app"
+                    "issuer": "did:web:24fb-120-159-2-21.ngrok-free.app"
                   },
                   "dpp": {
                     "context": ["https://dpp-json-ld.s3.ap-southeast-2.amazonaws.com/dppld.json"],
@@ -1110,7 +1110,7 @@
                         {
                           "path": "/sourceParty",
                           "data": {
-                            "id": "did:web:0e37-27-32-93-137.ngrok-free.app",
+                            "id": "did:web:24fb-120-159-2-21.ngrok-free.app",
                             "name": "Cherries Farm",
                             "identifiers": [
                               {
@@ -1128,7 +1128,7 @@
                         {
                           "path": "/destinationParty",
                           "data": {
-                            "id": "did:web:0e37-27-32-93-137.ngrok-free.app",
+                            "id": "did:web:24fb-120-159-2-21.ngrok-free.app",
                             "name": "Cherries Processor",
                             "identifiers": [
                               {
@@ -1175,7 +1175,7 @@
                 {
                   "vckit": {
                     "vckitAPIUrl": "http://localhost:3332/v1",
-                    "issuer": "did:web:0e37-27-32-93-137.ngrok-free.app"
+                    "issuer": "did:web:24fb-120-159-2-21.ngrok-free.app"
                   },
                   "epcisTransactionEvent": {
                     "context": ["https://dpp-json-ld.s3.ap-southeast-2.amazonaws.com/transaction-event-ld.json"],

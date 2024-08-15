@@ -713,7 +713,7 @@
                 {
                   "vckit": {
                     "vckitAPIUrl": "http://localhost:3332/v1",
-                    "issuer": "did:web:example.com"
+                    "issuer": "did:web:ded3-120-159-2-21.ngrok-free.app"
                   },
                   "dpp": {
                     "context": ["https://dpp-json-ld.s3.ap-southeast-2.amazonaws.com/dppld.json"],
@@ -1128,7 +1128,7 @@
                         {
                           "path": "/sourceParty",
                           "data": {
-                            "id": "did:web:api.acrs.pyx.io:top-line-steel",
+                            "id": "did:web:ded3-120-159-2-21.ngrok-free.app:top-line-steel",
                             "name": "Top Line Steel",
                             "identifiers": [
                               {
@@ -1146,7 +1146,7 @@
                         {
                           "path": "/destinationParty",
                           "data": {
-                            "id": "did:web:api.acrs.pyx.io:steel-processor",
+                            "id": "did:web:ded3-120-159-2-21.ngrok-free.app:steel-processor",
                             "name": "Steel Processor",
                             "identifiers": [
                               {
@@ -1193,7 +1193,7 @@
                 {
                   "vckit": {
                     "vckitAPIUrl": "http://localhost:3332/v1",
-                    "issuer": "did:web:example.com"
+                    "issuer": "did:web:ded3-120-159-2-21.ngrok-free.app"
                   },
                   "epcisTransactionEvent": {
                     "context": ["https://dpp-json-ld.s3.ap-southeast-2.amazonaws.com/transaction-event-ld.json"],
@@ -1928,7 +1928,7 @@
                 {
                   "vckit": {
                     "vckitAPIUrl": "http://localhost:3332/v1",
-                    "issuer": "did:web:example.com"
+                    "issuer": "did:web:ded3-120-159-2-21.ngrok-free.app"
                   },
                   "dpp": {
                     "context": ["https://dpp-json-ld.s3.ap-southeast-2.amazonaws.com/dppld.json"],
@@ -2344,7 +2344,7 @@
                         {
                           "path": "/sourceParty",
                           "data": {
-                            "id": "did:web:api.acrs.pyx.io:quality-steel",
+                            "id": "did:web:ded3-120-159-2-21.ngrok-free.app:quality-steel",
                             "name": "Quality Steel",
                             "identifiers": [
                               {
@@ -2362,7 +2362,7 @@
                         {
                           "path": "/destinationParty",
                           "data": {
-                            "id": "did:web:api.acrs.pyx.io:steel-processor",
+                            "id": "did:web:ded3-120-159-2-21.ngrok-free.app:steel-processor",
                             "name": "Steel Processor",
                             "identifiers": [
                               {
@@ -2409,7 +2409,7 @@
                 {
                   "vckit": {
                     "vckitAPIUrl": "http://localhost:3332/v1",
-                    "issuer": "did:web:example.com"
+                    "issuer": "did:web:ded3-120-159-2-21.ngrok-free.app"
                   },
                   "epcisTransactionEvent": {
                     "context": ["https://dpp-json-ld.s3.ap-southeast-2.amazonaws.com/transaction-event-ld.json"],
@@ -2535,7 +2535,7 @@
                   },
                   "vckit": {
                     "vckitAPIUrl": "http://localhost:3332/v1",
-                    "issuer": "did:web:example.com"
+                    "issuer": "did:web:ded3-120-159-2-21.ngrok-free.app"
                   },
                   "dlr": {
                     "dlrAPIUrl": "http://localhost:8080",
