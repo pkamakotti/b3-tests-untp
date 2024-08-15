@@ -693,8 +693,8 @@
               "parameters": [
                 {
                   "vckit": {
-                    "vckitAPIUrl": "http://localhost:3332/v1",
-                    "issuer": "did:web:24fb-120-159-2-21.ngrok-free.app"
+                    "vckitAPIUrl": "https://cherries-api.datatrust.link:3332/v1",
+                    "issuer": "did:web:cherries-api.datatrust.link"
                   },
                   "dpp": {
                     "context": ["https://dpp-json-ld.s3.ap-southeast-2.amazonaws.com/dppld.json"],
@@ -707,14 +707,14 @@
                     "type": ["VerifiableCredential", "DigitalProductPassport"],
                     "dlrLinkTitle": "Cherries Product Passport",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "http://localhost:3001/verify"
+                    "dlrVerificationPage": "https://cherries-api.datatrust.link:3001/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "http://localhost:8080",
+                    "dlrAPIUrl": "https://cherries-api.datatrust.link:8080",
                     "dlrAPIKey": "5555555555555"
                   },
                   "storage": {
-                    "url": "http://localhost:3334/v1/documents",
+                    "url": "https://cherries-api.datatrust.link:3334/v1/documents",
                     "params": {
                       "resultPath": "/uri",
                       "bucket": "verifiable-credentials"
@@ -1110,7 +1110,7 @@
                         {
                           "path": "/sourceParty",
                           "data": {
-                            "id": "did:web:24fb-120-159-2-21.ngrok-free.app",
+                            "id": "did:web:cherries-api.datatrust.link",
                             "name": "Cherries Farm",
                             "identifiers": [
                               {
@@ -1128,7 +1128,7 @@
                         {
                           "path": "/destinationParty",
                           "data": {
-                            "id": "did:web:24fb-120-159-2-21.ngrok-free.app",
+                            "id": "did:web:cherries-api.datatrust.link",
                             "name": "Cherries Processor",
                             "identifiers": [
                               {
@@ -1174,8 +1174,8 @@
               "parameters": [
                 {
                   "vckit": {
-                    "vckitAPIUrl": "http://localhost:3332/v1",
-                    "issuer": "did:web:24fb-120-159-2-21.ngrok-free.app"
+                    "vckitAPIUrl": "https://cherries-api.datatrust.link:3332/v1",
+                    "issuer": "did:web:cherries-api.datatrust.link"
                   },
                   "epcisTransactionEvent": {
                     "context": ["https://dpp-json-ld.s3.ap-southeast-2.amazonaws.com/transaction-event-ld.json"],
@@ -1188,14 +1188,14 @@
                     "type": ["TransactionEventCredential"],
                     "dlrLinkTitle": "Transaction Event",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "http://localhost:3001/verify"
+                    "dlrVerificationPage": "https://cherries-api.datatrust.link:3001/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "http://localhost:8080",
+                    "dlrAPIUrl": "https://cherries-api.datatrust.link:8080",
                     "dlrAPIKey": "5555555555555"
                   },
                   "storage": {
-                    "url": "http://localhost:3334/v1/documents",
+                    "url": "https://cherries-api.datatrust.link:3334/v1/documents",
                     "params": {
                       "resultPath": "/uri",
                       "bucket": "verifiable-credentials"
@@ -1219,13 +1219,13 @@
   ],
   "identifyProvider": {
     "type": "gs1",
-    "url": "http://localhost:3333/products"
+    "url": "https://cherries-api.datatrust.link:3333/products"
   },
   "defaultVerificationServiceLink": {
     "title": "Default Verification Service",
     "context": "Default Verification Service",
     "type": "application/json",
-    "href": "http://localhost:3332/agent/routeVerificationCredential",
+    "href": "https://cherries-api.datatrust.link:3332/agent/routeVerificationCredential",
     "hreflang": ["en"],
     "apiKey": "test123"
   }
