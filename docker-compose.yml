@@ -14,6 +14,16 @@ services:
       - ./documentation:/app
       - /app/node_modules
 
+  mock-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - CONFIG_FILE=./app-config.cherries.json
+    ports:
+      - 3003:80
+
+
   vckit-api:
     image: ghcr.io/uncefact/project-vckit:sha-60d583b@sha256:afa777d13512628e4277566a8abf45be43bdd19cdc8cbcc5383ffc00cc0ba912
     env_file:
