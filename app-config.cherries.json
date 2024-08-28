@@ -707,7 +707,7 @@
                     "type": ["VerifiableCredential", "DigitalProductPassport"],
                     "dlrLinkTitle": "Cherries Product Passport",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "https://cherries-api.datatrust.link:3003/verify"
+                    "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
                     "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
@@ -1190,7 +1190,7 @@
                     "type": ["TransactionEventCredential"],
                     "dlrLinkTitle": "Transaction Event",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "https://cherries-api.datatrust.link:3003/verify"
+                    "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
                     "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
@@ -1907,7 +1907,7 @@
                     "type": ["VerifiableCredential", "DigitalProductPassport"],
                     "dlrLinkTitle": "Cherries Product Passport",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "https://cherries-api.datatrust.link:3003/verify"
+                    "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
                     "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
@@ -2388,7 +2388,7 @@
                     "type": ["TransactionEventCredential"],
                     "dlrLinkTitle": "Transaction Event",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "https://cherries-api.datatrust.link:3003/verify"
+                    "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
                     "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
@@ -3105,7 +3105,7 @@
                     "type": ["VerifiableCredential", "DigitalProductPassport"],
                     "dlrLinkTitle": "Cherries Product Passport",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "https://cherries-api.datatrust.link:3003/verify"
+                    "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
                     "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
@@ -3586,7 +3586,7 @@
                     "type": ["TransactionEventCredential"],
                     "dlrLinkTitle": "Transaction Event",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "https://cherries-api.datatrust.link:3003/verify"
+                    "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
                     "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
@@ -4303,7 +4303,7 @@
                     "type": ["VerifiableCredential", "DigitalProductPassport"],
                     "dlrLinkTitle": "Cherries Product Passport",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "https://cherries-api.datatrust.link:3003/verify"
+                    "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
                     "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
@@ -4784,7 +4784,7 @@
                     "type": ["TransactionEventCredential"],
                     "dlrLinkTitle": "Transaction Event",
                     "dlrIdentificationKeyType": "gtin",
-                    "dlrVerificationPage": "https://cherries-api.datatrust.link:3003/verify"
+                    "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
                     "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
