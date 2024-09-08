@@ -706,12 +706,14 @@
                     ],
                     "type": ["VerifiableCredential", "DigitalProductPassport"],
                     "dlrLinkTitle": "Cherries Product Passport",
+                    "dlrIdentificationKeyNamespace": "gs1",
                     "dlrIdentificationKeyType": "gtin",
                     "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
                     "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
-                    "dlrAPIKey": "test123"
+                    "dlrAPIKey": "test123",
+                    "namespace": "gs1"
                   },
                   "storage": {
                     "url": "https://cherries-api.datatrust.link:3334/v1/documents",
@@ -1189,12 +1191,14 @@
                     ],
                     "type": ["TransactionEventCredential"],
                     "dlrLinkTitle": "Transaction Event",
+                    "dlrIdentificationKeyNamespace": "gs1",
                     "dlrIdentificationKeyType": "gtin",
                     "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
                     "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
-                    "dlrAPIKey": "test123"
+                    "dlrAPIKey": "test123",
+                    "namespace": "gs1"
                   },
                   "storage": {
                     "url": "https://cherries-api.datatrust.link:3334/v1/documents",
@@ -1906,12 +1910,14 @@
                     ],
                     "type": ["VerifiableCredential", "DigitalProductPassport"],
                     "dlrLinkTitle": "Cherries Product Passport",
+                    "dlrIdentificationKeyNamespace": "gs1",
                     "dlrIdentificationKeyType": "gtin",
                     "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
                     "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
-                    "dlrAPIKey": "test123"
+                    "dlrAPIKey": "test123",
+                    "namespace": "gs1"
                   },
                   "storage": {
                     "url": "https://cherries-api.datatrust.link:3334/v1/documents",
@@ -2387,12 +2393,14 @@
                     ],
                     "type": ["TransactionEventCredential"],
                     "dlrLinkTitle": "Transaction Event",
+                    "dlrIdentificationKeyNamespace": "gs1",
                     "dlrIdentificationKeyType": "gtin",
                     "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
                     "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
-                    "dlrAPIKey": "test123"
+                    "dlrAPIKey": "test123",
+                    "namespace": "gs1"
                   },
                   "storage": {
                     "url": "https://cherries-api.datatrust.link:3334/v1/documents",
@@ -3104,12 +3112,14 @@
                     ],
                     "type": ["VerifiableCredential", "DigitalProductPassport"],
                     "dlrLinkTitle": "Cherries Product Passport",
+                    "dlrIdentificationKeyNamespace": "gs1",
                     "dlrIdentificationKeyType": "gtin",
                     "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
                     "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
-                    "dlrAPIKey": "test123"
+                    "dlrAPIKey": "test123",
+                    "namespace": "gs1"
                   },
                   "storage": {
                     "url": "https://cherries-api.datatrust.link:3334/v1/documents",
@@ -3585,12 +3595,14 @@
                     ],
                     "type": ["TransactionEventCredential"],
                     "dlrLinkTitle": "Transaction Event",
+                    "dlrIdentificationKeyNamespace": "gs1",
                     "dlrIdentificationKeyType": "gtin",
                     "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
                     "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
-                    "dlrAPIKey": "test123"
+                    "dlrAPIKey": "test123",
+                    "namespace": "gs1"
                   },
                   "storage": {
                     "url": "https://cherries-api.datatrust.link:3334/v1/documents",
@@ -4302,12 +4314,14 @@
                     ],
                     "type": ["VerifiableCredential", "DigitalProductPassport"],
                     "dlrLinkTitle": "Cherries Product Passport",
+                    "dlrIdentificationKeyNamespace": "gs1",
                     "dlrIdentificationKeyType": "gtin",
                     "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
                     "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
-                    "dlrAPIKey": "test123"
+                    "dlrAPIKey": "test123",
+                    "namespace": "gs1"
                   },
                   "storage": {
                     "url": "https://cherries-api.datatrust.link:3334/v1/documents",
@@ -4783,12 +4797,14 @@
                     ],
                     "type": ["TransactionEventCredential"],
                     "dlrLinkTitle": "Transaction Event",
+                    "dlrIdentificationKeyNamespace": "gs1",
                     "dlrIdentificationKeyType": "gtin",
                     "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
                     "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
-                    "dlrAPIKey": "test123"
+                    "dlrAPIKey": "test123",
+                    "namespace": "gs1"
                   },
                   "storage": {
                     "url": "https://cherries-api.datatrust.link:3334/v1/documents",
