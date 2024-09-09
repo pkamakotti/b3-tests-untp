@@ -711,7 +711,7 @@
                     "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
+                    "dlrAPIUrl": "https://cherries-api.datatrust.link:3000",
                     "dlrAPIKey": "test123",
                     "namespace": "gs1"
                   },
@@ -1196,7 +1196,7 @@
                     "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
+                    "dlrAPIUrl": "https://cherries-api.datatrust.link:3000",
                     "dlrAPIKey": "test123",
                     "namespace": "gs1"
                   },
@@ -1915,7 +1915,7 @@
                     "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
+                    "dlrAPIUrl": "https://cherries-api.datatrust.link:3000",
                     "dlrAPIKey": "test123",
                     "namespace": "gs1"
                   },
@@ -2398,7 +2398,7 @@
                     "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
+                    "dlrAPIUrl": "https://cherries-api.datatrust.link:3000",
                     "dlrAPIKey": "test123",
                     "namespace": "gs1"
                   },
@@ -3117,7 +3117,7 @@
                     "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
+                    "dlrAPIUrl": "https://cherries-api.datatrust.link:3000",
                     "dlrAPIKey": "test123",
                     "namespace": "gs1"
                   },
@@ -3600,7 +3600,7 @@
                     "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
+                    "dlrAPIUrl": "https://cherries-api.datatrust.link:3000",
                     "dlrAPIKey": "test123",
                     "namespace": "gs1"
                   },
@@ -4319,7 +4319,7 @@
                     "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
+                    "dlrAPIUrl": "https://cherries-api.datatrust.link:3000",
                     "dlrAPIKey": "test123",
                     "namespace": "gs1"
                   },
@@ -4802,7 +4802,7 @@
                     "dlrVerificationPage": "https://cherries.datatrust.link/verify"
                   },
                   "dlr": {
-                    "dlrAPIUrl": "https://cherries-api.datatrust.link:3000/api",
+                    "dlrAPIUrl": "https://cherries-api.datatrust.link:3000",
                     "dlrAPIKey": "test123",
                     "namespace": "gs1"
                   },
