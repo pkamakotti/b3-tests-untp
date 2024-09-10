@@ -56,6 +56,8 @@ services:
       - PORT=3334
       - AVAILABLE_BUCKETS=verifiable-credentials,private-verifiable-credentials,epcis-events
       - STORAGE_TYPE=local
+    volumes:
+      - storage-data:/app/src/uploads
 
   identity-resolver-service:
     # Replace with local or deployed image
@@ -125,3 +127,4 @@ services:
 
 volumes:
   vckit-data:
+  storage-data:
