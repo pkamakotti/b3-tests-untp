@@ -81,10 +81,7 @@
       "description": "The date and time from which the credential is valid."
     },
     "credentialSubject": {
-      "type": "array",
-      "items": {
-        "$ref": "#/$defs/Event"
-      },
+      "$ref": "#/$defs/Event",
       "description": "VC subject is the transaction event structure"
     }
   },
